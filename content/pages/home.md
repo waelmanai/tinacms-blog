@@ -25,7 +25,7 @@ blocks:
       - icon:
           color: red
           style: float
-          name: code
+          name: chart
         title: Amazing Feature
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
